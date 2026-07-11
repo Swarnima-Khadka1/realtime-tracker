@@ -48,6 +48,12 @@ Open `http://localhost:3000` in your browser and allow location access when prom
 |----------|----------------|
 | <img src="images/map.png" width="100%"> | <img src="images/multi-user.png" width="100%"> |
 
+## Tutorial
+
+A beginner-friendly, step-by-step guide for building this project is available on Medium.
+
+Read the article: [Realtime Tracker Tutorial](https://medium.com/@swarnimakhadka2/building-a-realtime-location-tracker-with-node-js-socket-io-and-leaflet-4089173e60ee?sharedUserId=swarnimakhadka2)
+
 ## Notes
 
 - Geolocation works best on `localhost` or over HTTPS.
